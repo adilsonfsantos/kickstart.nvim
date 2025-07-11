@@ -12,3 +12,5 @@ vim.o.incsearch = true
 vim.o.inccommand = 'split'
 
 vim.o.scrolloff = 8
+
+vim.cmd.colorscheme 'tokyonight-night'
