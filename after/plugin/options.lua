@@ -1,8 +1,3 @@
-require 'kickstart.plugins.indent_line'
-require 'kickstart.plugins.lint'
-require 'kickstart.plugins.autopairs'
-require 'custom.plugins'
-
 vim.g.have_nerd_font = true
 
 vim.o.colorcolumn = '80'
