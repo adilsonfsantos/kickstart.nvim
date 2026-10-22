@@ -736,7 +736,17 @@ do
     -- clangd = {},
     -- gopls = {},
     -- pyright = {},
-    -- tsc = {},
+    tsc = {},
+    astro ={},
+    jsonls = {},
+    mdx_analyzer = {},
+    cssls = {},
+    eslint ={},
+    html = {},
+    bashls = {},
+    yamlls = {},
+
+
     --
     -- Some languages (like rust) have entire language plugins that can be useful:
     --    https://github.com/mrcjkb/rustaceanvim
